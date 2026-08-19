@@ -25,7 +25,7 @@ public class StudentResult {
             }
 
             if (marks[i] == search) {
-                System.out.println("Search Index for number: " + search + " is at index " + i);
+                System.out.println("Search Index for number: " + search + " is at index: " + i);
                 found = true;
             }
         }
