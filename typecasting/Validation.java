@@ -8,6 +8,9 @@ public class Validation {
     System.out.println("Enter your name:");
 
     String var2 = var1.nextLine();
+    if(var1.hasNextInt()){
+        
+    }
 
     Scanner var3 = new Scanner(System.in);
     System.out.println("Enter your age:");
