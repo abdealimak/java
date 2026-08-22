@@ -1,1 +1,1 @@
-<h1>Java notes</h1>
+<h1>Java notes 👨🏻‍💻</h1>
